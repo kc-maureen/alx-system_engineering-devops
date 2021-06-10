@@ -1,0 +1,1 @@
+this script describes how to change current user to user betty
