@@ -1,0 +1,17 @@
+#!/usr/bin/env bash
+# at 4, print badluck at 8, print goodluck. the rest is best school 
+
+i=1
+while [ $i -le 10 ]
+do
+    if [ $i -eq 8 ]
+	then
+		echo "good luck"
+    elif [ $i -eq 4 ]
+    then
+        echo "bad luck"
+    else
+	    echo "Best School"
+	fi
+	((i=i+1))
+done

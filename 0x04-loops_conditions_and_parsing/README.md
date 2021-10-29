@@ -1,0 +1,1 @@
+This is a project about for loops. it majors on the use of #!/usr/bin/env bash
